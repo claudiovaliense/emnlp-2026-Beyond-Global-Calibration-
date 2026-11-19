@@ -7,7 +7,6 @@ https://aclanthology.org/2026.uncertainlp-main.41/
 Code in Colab:
 [![View on GitHub](https://img.shields.io/badge/View%20Notebook-GitHub-black?logo=github)](https://github.com/claudiovaliense/emnlp-2026-Beyond-Global-Calibration-/blob/main/Beyond_Global_Calibration_Analyzing_Class_Specific_Miscalibration_and_High_Confidence_Errors_in_Text_Classification.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/claudiovaliense/emnlp-2026-Beyond-Global-Calibration-/blob/main/Beyond_Global_Calibration_Analyzing_Class_Specific_Miscalibration_and_High_Confidence_Errors_in_Text_Classification.ipynb)
 ## 📖 Citation
 
 If you use this work in your research, please cite our paper:
