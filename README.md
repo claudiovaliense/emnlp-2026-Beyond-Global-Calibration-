@@ -4,7 +4,19 @@ EMNLP 2026 Beyond Global Calibration: Analyzing Class-Specific Miscalibration an
 Link Article:
 https://aclanthology.org/2026.uncertainlp-main.41/
 
-Cite BibTeX
+Code in Colab:
+
+
+
+## 📖 Citation
+
+If you use this work in your research, please cite our paper:
+
+> Claudio Moisés Valiense de Andrade et al. (2026). Analyzing Class-Specific Miscalibration and High-Confidence Errors in Text Classification. 
+
+<strong>BibTeX</strong>
+
+```bibtex
 @inproceedings{andrade-etal-2026-beyond,
     title = "Beyond Global Calibration: Analyzing Class-Specific Miscalibration and High-Confidence Errors in Text Classification",
     author = "Andrade, Claudio Mois{\'e}s Valiense de  and
@@ -37,3 +49,4 @@ Cite BibTeX
     ISBN = "979-8-89176-486-6",
     abstract = "Confidence scores are increasingly used to assess uncertainty in text classification, yet aggregate calibration metrics may hide localized reliability failures. We investigate this issue across seven sentiment and topic classification datasets by comparing global and class-specific calibration and analyzing high-confidence errors. Our results show that low global calibration error can coexist with substantial class-specific variation, particularly in multi-class settings. We also find that high-confidence errors are not randomly distributed: they concentrate in specific true{--}predicted class confusions, with some incorrect predictions receiving confidence scores close to 1.0. These findings show that globally calibrated models can still exhibit systematic uncertainty failures, motivating class-aware and error-level analyses when confidence is used as an indicator of prediction reliability."
 }
+```
