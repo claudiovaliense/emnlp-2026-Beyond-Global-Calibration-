@@ -9,7 +9,7 @@ Code in Colab:
 
 ## 📖 Citation
 
-If you use this work in your research, please cite our paper:
+If you use this work or its code in your research, please consider citing our paper:
 
 > Claudio Moisés Valiense de Andrade et al. (2026). Analyzing Class-Specific Miscalibration and High-Confidence Errors in Text Classification. 
 
